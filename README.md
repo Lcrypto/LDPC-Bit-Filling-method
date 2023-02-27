@@ -1,1 +1,3 @@
 # LDPC-Bit-Filling-method
+Random LDPC codes Bit-Filling construction methods from article J. Campellot, D. S. Modhat and S. Rajagopalant. "Designing LDPC
+ % Codes Using Bit-Filling". ICC 2001, pp. 55–59, 2001.
